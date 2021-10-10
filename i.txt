@@ -1,0 +1,4 @@
+Java 8 , JEE, Spring Core, Spring Boot, Spring MVC,
+ REST , Hibernate, Angular JS , Node JS,
+ CSS3 , HTML5, Any RDBMS database (DB2, Postgre, MYSQL, Oracle etc.) 
+and Sql knowledge , Git , Maven, Eclipse / Intellij, Design Patterns

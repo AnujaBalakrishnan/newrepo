@@ -1,0 +1,23 @@
+spring uses:
+1. spring is a light weight
+2. open source
+3. we can work with different java frameworks like hibernate
+4. POJO based programming model 
+5. Advantages of using POJO is that we can work with 
+	servlets containers rather than EJB containers
+6. extensions for builing web applications 
+
+
+
+
+
+-----------------------------------JAVA-------------------------
+
+Object : instance of class 
+Class : Collection of object is called class.
+Object : It take some space in memory
+Class : Doesn't take space in memory
+Object: Physical entity
+Class : Logical entity
+Object : It uses the new keyword
+Class : It uses the class Keyword
